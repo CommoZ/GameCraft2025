@@ -1,135 +1,142 @@
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // --- Tunable Parameters (Visible in Inspector) ---
+    // --- Inspector Variables ---
     [Header("Movement")]
     [SerializeField] private float speed = 8f;
-    [SerializeField] private float jumpingPower = 16f;
+
+    [Header("Charged Jump")]
+    [SerializeField] private float minJumpPower = 8f;
+    [SerializeField] private float maxJumpPower = 16f;
+    [SerializeField] private float chargeRate = 1.5f; // units per second
 
     [Header("Physics & Ground Check")]
     [SerializeField] private Rigidbody2D rb;
-    [SerializeField] private Transform groundCheck;
+    [SerializeField] private Transform groundCheckLeft;
+    [SerializeField] private Transform groundCheckRight;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float groundCheckRadius = 0.2f;
 
-    // --- Private State Variables ---
-    private float moveDirection; // Represents the horizontal input (-1 to 1)
+
+    [Header("UI")]
+    [SerializeField] private Slider jumpBar;
+
+    // --- Private State ---
+    private float moveDirection = 0f;
     private bool isFacingRight = true;
-    private bool jumpRequested; // Flag to ensure jump occurs in FixedUpdate
 
-    // NOTE: playerInput is automatically referenced by Unity's 'Invoke Unity Events' behavior,
-    // so the private field and Awake() are often not strictly necessary unless you need 
-    // to access the PlayerInput component specifically for other reasons.
-    // private PlayerInput playerInput; 
-
-    // void Awake()
-    // {
-    //     playerInput = GetComponent<PlayerInput>();
-    // }
+    private bool isCharging = false;
+    private float jumpCharge = 0f;
 
     // =================================================================================
-    // INPUT HANDLING (Called by New Input System Events)
+    // INPUT HANDLING (Unity Events)
     // =================================================================================
 
     public void OnMove(InputValue value)
     {
-        // Reads the Vector2 input (e.g., from WASD or Left Stick)
-        Vector2 movement = value.Get<Vector2>();
-        moveDirection = movement.x;
+        moveDirection = value.Get<Vector2>().x;
     }
 
     public void OnJump(InputValue value)
     {
-        // 1. Check for Button Press (Start)
-        if (value.isPressed)
-        {
-            // Set the flag to true. The actual jump physics is applied in FixedUpdate()
-            // to ensure it is synchronized with the physics engine.
-            Debug.Log("Jump button pressed");
-            jumpRequested = true;
-        }
+        bool pressed = value.isPressed;
 
-        // 2. Handle Button Release (Cancel - For short hop/variable jump height)
-        else // if (!value.isPressed)
+
+        if (pressed && IsGrounded())
         {
-            // Only cut velocity if the player is currently moving upwards
-            if (rb.linearVelocity.y > 0f)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
-            }
+            // Start charging
+            isCharging = true;
+            jumpCharge = 0f;
+            Debug.Log("Started charging jump");
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // Optional: stop horizontal movement while charging
+        }
+        else if (!pressed && isCharging)
+        {
+            // Release jump
+            ReleaseJump();
         }
     }
 
+    
+
     // =================================================================================
-    // UNITY LIFECYCLE METHODS
+    // UNITY LIFECYCLE
     // =================================================================================
 
-    void Update()
+    private void Update()
     {
-        // Update is ideal for non-physics-related tasks like setting animation states
-        // and flipping the sprite, which need to be responsive.
+        // Charge jump while button is held and grounded
+        if (isCharging && IsGrounded())
+        {
+            jumpCharge += chargeRate * Time.deltaTime;
+            jumpCharge = Mathf.Clamp01(jumpCharge);
+
+            if (jumpBar != null)
+                jumpBar.value = jumpCharge;
+
+            // Debug log (optional)
+            Debug.Log($"Charging jump: {jumpCharge:F2}");
+        }
+
         Flip();
     }
 
     private void FixedUpdate()
     {
-        // FixedUpdate is where all Rigidbody/Physics calculations should happen.
+        if (!isCharging)
+            HandleMovement();
 
-        // 1. Horizontal Movement
-        HandleMovement();
-
-        // 2. Jumping (Triggered by the flag set in OnJump)
-        HandleJump();
+        // Safety: cancel charging if player leaves ground
+        //if (!IsGrounded() && isCharging)
+        //{
+        //    isCharging = false;
+        //    jumpCharge = 0f;
+        //    if (jumpBar != null) jumpBar.value = 0f;
+        //    Debug.Log("Left ground while charging - reset jump");
+        //}
     }
 
     // =================================================================================
-    // MOVEMENT & PHYSICS LOGIC
+    // MOVEMENT & PHYSICS
     // =================================================================================
 
     private void HandleMovement()
     {
-        // Apply horizontal velocity based on input direction
         rb.linearVelocity = new Vector2(moveDirection * speed, rb.linearVelocity.y);
     }
 
-    private void HandleJump()
+    private void ReleaseJump()
     {
-        // Debug.Log("Is grounded: " + IsGrounded());
-        // Check the jump request flag AND if the player is currently grounded
-        if (jumpRequested && IsGrounded())
-        {
-            // Apply the jump force
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpingPower);
+        float jumpPower = Mathf.Lerp(minJumpPower, maxJumpPower, jumpCharge);
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
 
-            Debug.Log("Jump executed");
-            // Immediately clear the flag so we don't jump again next frame
-            jumpRequested = false;
-        }
+        Debug.Log($"Jumped! Power: {jumpPower:F2} (Charge: {jumpCharge:F2})");
 
-        // Always clear the flag here if the player has left the ground, 
-        // preventing a jump from being stored indefinitely.
-        if (jumpRequested && !IsGrounded())
-        {
-            jumpRequested = false;
-        }
+        // Reset state
+        isCharging = false;
+        jumpCharge = 0f;
+        if (jumpBar != null)
+            jumpBar.value = 0f;
     }
+
     private bool IsGrounded()
     {
-        // Use the dedicated radius variable
-        return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        return Physics2D.OverlapCircle(groundCheckRight.position, groundCheckRadius, groundLayer) ||
+            Physics2D.OverlapCircle(groundCheckLeft.position, groundCheckRadius, groundLayer);
     }
 
     private void Flip()
     {
-        // Only flip if there is horizontal input that conflicts with the current facing direction
         if ((isFacingRight && moveDirection < 0f) || (!isFacingRight && moveDirection > 0f))
         {
             isFacingRight = !isFacingRight;
-            Vector3 localScale = transform.localScale;
-            localScale.x *= -1f;
-            transform.localScale = localScale;
+            Vector3 scale = transform.localScale;
+            scale.x *= -1f;
+            transform.localScale = scale;
         }
     }
 }
