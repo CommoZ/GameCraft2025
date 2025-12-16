@@ -21,16 +21,26 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float groundCheckRadius = 0.2f;
 
-
     [Header("UI")]
     [SerializeField] private Slider jumpBar;
 
     // --- Private State ---
     private float moveDirection = 0f;
     private bool isFacingRight = true;
-
     private bool isCharging = false;
     private float jumpCharge = 0f;
+
+    // --- NEW: Animation Component ---
+    private Animator animator;
+
+    private void Awake()
+    {
+        // Get the Animator component attached to this object
+        animator = GetComponent<Animator>();
+        
+        // Safety check just in case you forgot to assign RB in inspector
+        if (rb == null) rb = GetComponent<Rigidbody2D>(); 
+    }
 
     // =================================================================================
     // INPUT HANDLING (Unity Events)
@@ -45,14 +55,13 @@ public class PlayerMovement : MonoBehaviour
     {
         bool pressed = value.isPressed;
 
-
         if (pressed && IsGrounded())
         {
             // Start charging
             isCharging = true;
             jumpCharge = 0f;
             Debug.Log("Started charging jump");
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // Optional: stop horizontal movement while charging
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // Stop moving when charging
         }
         else if (!pressed && isCharging)
         {
@@ -60,8 +69,6 @@ public class PlayerMovement : MonoBehaviour
             ReleaseJump();
         }
     }
-
-    
 
     // =================================================================================
     // UNITY LIFECYCLE
@@ -77,27 +84,18 @@ public class PlayerMovement : MonoBehaviour
 
             if (jumpBar != null)
                 jumpBar.value = jumpCharge;
-
-            // Debug log (optional)
-            Debug.Log($"Charging jump: {jumpCharge:F2}");
         }
 
         Flip();
+        
+        // --- NEW: Update Animations every frame ---
+        UpdateAnimations();
     }
 
     private void FixedUpdate()
     {
         if (!isCharging)
             HandleMovement();
-
-        // Safety: cancel charging if player leaves ground
-        //if (!IsGrounded() && isCharging)
-        //{
-        //    isCharging = false;
-        //    jumpCharge = 0f;
-        //    if (jumpBar != null) jumpBar.value = 0f;
-        //    Debug.Log("Left ground while charging - reset jump");
-        //}
     }
 
     // =================================================================================
@@ -138,5 +136,20 @@ public class PlayerMovement : MonoBehaviour
             scale.x *= -1f;
             transform.localScale = scale;
         }
+    }
+
+    // --- NEW: Animation Logic Helper ---
+    private void UpdateAnimations()
+    {
+        if (animator == null) return;
+
+        // 1. Pass Speed
+        // We use the absolute value of the Rigidbody's actual x velocity.
+        // This ensures that if "isCharging" stops the player, the animation stops too.
+        animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
+
+        // 2. Pass Jumping State
+        // If we are NOT grounded, we are jumping (or falling).
+        animator.SetBool("IsJumping", !IsGrounded());
     }
 }
