@@ -2,46 +2,59 @@ using UnityEngine;
 
 public class SpeedTransparencyController : MonoBehaviour
 {
-    [Header("References")]
-    [SerializeField] private Rigidbody2D playerRb;
+	[Header("References")]
+	[SerializeField] private Rigidbody2D playerRb;
 
-    [Header("Fade Settings")]
-    [SerializeField] private string targetLayerName = "Ground";
-    [SerializeField] private float maxSpeed = 10f;
-    [SerializeField] private float minAlpha = 0f;
-    [SerializeField] private float maxAlpha = 1f;
+	[Header("Fade Settings")]
+	[SerializeField] private string targetLayerName = "Ground";
+	[SerializeField] private float maxSpeed = 10f;
+	[SerializeField] private float minAlpha = 0f;
+	[SerializeField] private float maxAlpha = 1f;
 
-    private int targetLayer;
-    private SpriteRenderer[] affectedRenderers;
+	[Header("Fade Speeds")]
+	[SerializeField] private float fadeOutSpeed = 12f; // fast when moving
+	[SerializeField] private float fadeInSpeed = 3f;   // slow when stopping
 
-    void Awake()
-    {
-        targetLayer = LayerMask.NameToLayer(targetLayerName);
+	private int targetLayer;
+	private SpriteRenderer[] affectedRenderers;
 
-        affectedRenderers = FindObjectsOfType<SpriteRenderer>();
+	private float currentAlpha = 1f;
 
-        // Filter only objects in the target layer
-        affectedRenderers = System.Array.FindAll(
-            affectedRenderers,
-            r => r.gameObject.layer == targetLayer
-        );
-    }
+	void Awake()
+	{
+		targetLayer = LayerMask.NameToLayer(targetLayerName);
 
-    void Update()
-    {
-        float speed = playerRb.linearVelocity.magnitude;
+		affectedRenderers = FindObjectsOfType<SpriteRenderer>();
+		affectedRenderers = System.Array.FindAll(
+			affectedRenderers,
+			r => r.gameObject.layer == targetLayer
+		);
+	}
 
-        // Normalize speed 0–1
-        float t = Mathf.Clamp01(speed / maxSpeed);
+	void Update()
+	{
+		float speed = playerRb.linearVelocity.magnitude;
 
-        // Invert if needed (fast = more transparent)
-        float alpha = Mathf.Lerp(maxAlpha, minAlpha, t);
+		// Compute target alpha from speed
+		float t = Mathf.Clamp01(speed / maxSpeed);
+		float targetAlpha = Mathf.Lerp(maxAlpha, minAlpha, t);
 
-        foreach (SpriteRenderer sr in affectedRenderers)
-        {
-            Color c = sr.color;
-            c.a = alpha;
-            sr.color = c;
-        }
-    }
+		// Choose fade speed based on direction
+		float fadeSpeed = targetAlpha > currentAlpha
+			? fadeInSpeed     // becoming visible
+			: fadeOutSpeed;   // becoming transparent
+
+		currentAlpha = Mathf.MoveTowards(
+			currentAlpha,
+			targetAlpha,
+			fadeSpeed * Time.deltaTime
+		);
+
+		foreach (SpriteRenderer sr in affectedRenderers)
+		{
+			Color c = sr.color;
+			c.a = currentAlpha;
+			sr.color = c;
+		}
+	}
 }

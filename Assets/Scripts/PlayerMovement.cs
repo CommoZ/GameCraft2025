@@ -28,7 +28,8 @@ public class PlayerMovement : MonoBehaviour
     private float moveDirection = 0f;
     private bool isFacingRight = true;
     private bool isCharging = false;
-    private float jumpCharge = 0f;
+	private bool wasGrounded;
+	private float jumpCharge = 0f;
 
     // --- NEW: Animation Component ---
     private Animator animator;
@@ -42,16 +43,19 @@ public class PlayerMovement : MonoBehaviour
         if (rb == null) rb = GetComponent<Rigidbody2D>(); 
     }
 
-    // =================================================================================
-    // INPUT HANDLING (Unity Events)
-    // =================================================================================
+	// =================================================================================
+	// INPUT HANDLING (Unity Events)
+	// =================================================================================
 
-    public void OnMove(InputValue value)
-    {
-        moveDirection = value.Get<Vector2>().x;
-    }
+	public void OnMove(InputValue value)
+	{
+		if (!IsGrounded())
+			return;
 
-    public void OnJump(InputValue value)
+		moveDirection = value.Get<Vector2>().x;
+	}
+
+	public void OnJump(InputValue value)
     {
         bool pressed = value.isPressed;
 
@@ -86,7 +90,17 @@ public class PlayerMovement : MonoBehaviour
                 jumpBar.value = jumpCharge;
         }
 
-        Flip();
+		bool grounded = IsGrounded();
+
+		if (grounded && !wasGrounded)
+		{
+			rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+			moveDirection = 0f;
+		}
+
+		wasGrounded = grounded;
+
+		Flip();
         
         // --- NEW: Update Animations every frame ---
         UpdateAnimations();
