@@ -118,12 +118,12 @@ TextureImporter:
       name: candleman-jump_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 6
         y: 0
-        width: 17
-        height: 18
+        width: 20
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -140,12 +140,12 @@ TextureImporter:
       name: candleman-jump_1
       rect:
         serializedVersion: 2
-        x: 40
+        x: 38
         y: 0
-        width: 16
+        width: 20
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: candleman-jump_2
       rect:
         serializedVersion: 2
-        x: 72
+        x: 70
         y: 0
-        width: 16
+        width: 20
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: candleman-jump_3
       rect:
         serializedVersion: 2
-        x: 104
+        x: 102
         y: 0
-        width: 16
-        height: 17
+        width: 20
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: candleman-jump_4
       rect:
         serializedVersion: 2
-        x: 136
+        x: 134
         y: 0
-        width: 17
-        height: 16
+        width: 20
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: candleman-jump_5
       rect:
         serializedVersion: 2
-        x: 168
+        x: 166
         y: 0
-        width: 16
-        height: 16
+        width: 20
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 33a0986404294ec49ad28c722a9537c7
     internalID: 0
     vertices: []
     indices: 

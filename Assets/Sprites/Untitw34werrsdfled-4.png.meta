@@ -1,0 +1,4407 @@
+fileFormatVersion: 2
+guid: 10ff4cab52801b84d9f2c6bb53c8b204
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1180388546082633941
+    second: Untitw34werrsdfled-4_0
+  - first:
+      213: 5541437893275357714
+    second: Untitw34werrsdfled-4_1
+  - first:
+      213: 7800660321785915404
+    second: Untitw34werrsdfled-4_2
+  - first:
+      213: 1951833864191778929
+    second: Untitw34werrsdfled-4_3
+  - first:
+      213: 343750356550272641
+    second: Untitw34werrsdfled-4_4
+  - first:
+      213: -619379877556264747
+    second: Untitw34werrsdfled-4_5
+  - first:
+      213: 9168369069239808158
+    second: Untitw34werrsdfled-4_6
+  - first:
+      213: -4711409322306509262
+    second: Untitw34werrsdfled-4_7
+  - first:
+      213: 5078347367488403768
+    second: Untitw34werrsdfled-4_8
+  - first:
+      213: 3844676784081715799
+    second: Untitw34werrsdfled-4_9
+  - first:
+      213: -6497073386672039142
+    second: Untitw34werrsdfled-4_10
+  - first:
+      213: -4350060067807081587
+    second: Untitw34werrsdfled-4_11
+  - first:
+      213: 2122964952834128146
+    second: Untitw34werrsdfled-4_12
+  - first:
+      213: -8529355107557913775
+    second: Untitw34werrsdfled-4_13
+  - first:
+      213: 6346341252517223451
+    second: Untitw34werrsdfled-4_14
+  - first:
+      213: -6106908287413988538
+    second: Untitw34werrsdfled-4_15
+  - first:
+      213: 2502536101351244131
+    second: Untitw34werrsdfled-4_16
+  - first:
+      213: 6526241580305615602
+    second: Untitw34werrsdfled-4_17
+  - first:
+      213: 4435018842390617221
+    second: Untitw34werrsdfled-4_18
+  - first:
+      213: -1069952153716483321
+    second: Untitw34werrsdfled-4_19
+  - first:
+      213: -2878041410688959582
+    second: Untitw34werrsdfled-4_20
+  - first:
+      213: -1615655145306295382
+    second: Untitw34werrsdfled-4_21
+  - first:
+      213: 4999183187107012769
+    second: Untitw34werrsdfled-4_22
+  - first:
+      213: 6908727819899380095
+    second: Untitw34werrsdfled-4_23
+  - first:
+      213: 5750655965946173293
+    second: Untitw34werrsdfled-4_24
+  - first:
+      213: 5019176797628559743
+    second: Untitw34werrsdfled-4_25
+  - first:
+      213: 5340998667739902555
+    second: Untitw34werrsdfled-4_26
+  - first:
+      213: 2591422689156529056
+    second: Untitw34werrsdfled-4_27
+  - first:
+      213: 7685368256985347371
+    second: Untitw34werrsdfled-4_28
+  - first:
+      213: -6661376336715037061
+    second: Untitw34werrsdfled-4_29
+  - first:
+      213: -8907955607266214133
+    second: Untitw34werrsdfled-4_30
+  - first:
+      213: -7453628974433925013
+    second: Untitw34werrsdfled-4_31
+  - first:
+      213: 5944355875716268114
+    second: Untitw34werrsdfled-4_32
+  - first:
+      213: -7795539685766536410
+    second: Untitw34werrsdfled-4_33
+  - first:
+      213: -3729109802734396794
+    second: Untitw34werrsdfled-4_34
+  - first:
+      213: -5150250547558165281
+    second: Untitw34werrsdfled-4_35
+  - first:
+      213: -6080591847878882984
+    second: Untitw34werrsdfled-4_36
+  - first:
+      213: 9190470326076088796
+    second: Untitw34werrsdfled-4_37
+  - first:
+      213: 5292227288633461967
+    second: Untitw34werrsdfled-4_38
+  - first:
+      213: -3532630235515644376
+    second: Untitw34werrsdfled-4_39
+  - first:
+      213: 987322238786854998
+    second: Untitw34werrsdfled-4_40
+  - first:
+      213: 2071244219123715654
+    second: Untitw34werrsdfled-4_41
+  - first:
+      213: -7579559508042024869
+    second: Untitw34werrsdfled-4_42
+  - first:
+      213: -3015511507451100341
+    second: Untitw34werrsdfled-4_43
+  - first:
+      213: -5576854654567889375
+    second: Untitw34werrsdfled-4_44
+  - first:
+      213: -5698287367048278778
+    second: Untitw34werrsdfled-4_45
+  - first:
+      213: -5846884066573625160
+    second: Untitw34werrsdfled-4_46
+  - first:
+      213: 6626895631217151265
+    second: Untitw34werrsdfled-4_47
+  - first:
+      213: 492762310084529628
+    second: Untitw34werrsdfled-4_48
+  - first:
+      213: 4001689354770098619
+    second: Untitw34werrsdfled-4_49
+  - first:
+      213: -3891388606095220982
+    second: Untitw34werrsdfled-4_50
+  - first:
+      213: -3858191866884237954
+    second: Untitw34werrsdfled-4_51
+  - first:
+      213: 2973752912374660675
+    second: Untitw34werrsdfled-4_52
+  - first:
+      213: -9194813476204266080
+    second: Untitw34werrsdfled-4_53
+  - first:
+      213: -4956009716908144850
+    second: Untitw34werrsdfled-4_54
+  - first:
+      213: -7748875600869018514
+    second: Untitw34werrsdfled-4_55
+  - first:
+      213: 2226694118127932307
+    second: Untitw34werrsdfled-4_56
+  - first:
+      213: -1540081224671418124
+    second: Untitw34werrsdfled-4_57
+  - first:
+      213: 2978864297301369152
+    second: Untitw34werrsdfled-4_58
+  - first:
+      213: 7605191092126019058
+    second: Untitw34werrsdfled-4_59
+  - first:
+      213: 9144715384112405214
+    second: Untitw34werrsdfled-4_60
+  - first:
+      213: -2538202536950369032
+    second: Untitw34werrsdfled-4_61
+  - first:
+      213: 7954102630022014572
+    second: Untitw34werrsdfled-4_62
+  - first:
+      213: -3894197201936570451
+    second: Untitw34werrsdfled-4_63
+  - first:
+      213: 4669696062951191598
+    second: Untitw34werrsdfled-4_64
+  - first:
+      213: -2814881568692833187
+    second: Untitw34werrsdfled-4_65
+  - first:
+      213: -8120789788110458403
+    second: Untitw34werrsdfled-4_66
+  - first:
+      213: 3376085718662673022
+    second: Untitw34werrsdfled-4_67
+  - first:
+      213: -3304144716189272798
+    second: Untitw34werrsdfled-4_68
+  - first:
+      213: -6872563144777531561
+    second: Untitw34werrsdfled-4_69
+  - first:
+      213: 551758721717020429
+    second: Untitw34werrsdfled-4_70
+  - first:
+      213: 5148860986511332194
+    second: Untitw34werrsdfled-4_71
+  - first:
+      213: 5265608434815749818
+    second: Untitw34werrsdfled-4_72
+  - first:
+      213: 2439248059883135831
+    second: Untitw34werrsdfled-4_73
+  - first:
+      213: 6385470427056102434
+    second: Untitw34werrsdfled-4_74
+  - first:
+      213: -2015585461235248183
+    second: Untitw34werrsdfled-4_75
+  - first:
+      213: 6742444112307502961
+    second: Untitw34werrsdfled-4_76
+  - first:
+      213: -3973294602368514992
+    second: Untitw34werrsdfled-4_77
+  - first:
+      213: 3380136125880426295
+    second: Untitw34werrsdfled-4_78
+  - first:
+      213: 6079997234300070521
+    second: Untitw34werrsdfled-4_79
+  - first:
+      213: 3026518995307568004
+    second: Untitw34werrsdfled-4_80
+  - first:
+      213: -2268030731461239226
+    second: Untitw34werrsdfled-4_81
+  - first:
+      213: -9018329197201798499
+    second: Untitw34werrsdfled-4_82
+  - first:
+      213: -8544866530591771726
+    second: Untitw34werrsdfled-4_83
+  - first:
+      213: -5747109916386536542
+    second: Untitw34werrsdfled-4_84
+  - first:
+      213: 3975975640263713971
+    second: Untitw34werrsdfled-4_85
+  - first:
+      213: 3027206190349777743
+    second: Untitw34werrsdfled-4_86
+  - first:
+      213: -7511596800952321643
+    second: Untitw34werrsdfled-4_87
+  - first:
+      213: -3078603574564956391
+    second: Untitw34werrsdfled-4_88
+  - first:
+      213: 1164147460649962560
+    second: Untitw34werrsdfled-4_89
+  - first:
+      213: -3560990715094450035
+    second: Untitw34werrsdfled-4_90
+  - first:
+      213: -7891361941045080834
+    second: Untitw34werrsdfled-4_91
+  - first:
+      213: 7340193972194980888
+    second: Untitw34werrsdfled-4_92
+  - first:
+      213: 6837589818496919931
+    second: Untitw34werrsdfled-4_93
+  - first:
+      213: 4120394950965015802
+    second: Untitw34werrsdfled-4_94
+  - first:
+      213: -116039425811898908
+    second: Untitw34werrsdfled-4_95
+  - first:
+      213: -8825627704283468620
+    second: Untitw34werrsdfled-4_96
+  - first:
+      213: -4657924595891942211
+    second: Untitw34werrsdfled-4_97
+  - first:
+      213: 7547112343188481392
+    second: Untitw34werrsdfled-4_98
+  - first:
+      213: -8427248684496089152
+    second: Untitw34werrsdfled-4_99
+  - first:
+      213: 3287870164243131644
+    second: Untitw34werrsdfled-4_100
+  - first:
+      213: -3235377181968802111
+    second: Untitw34werrsdfled-4_101
+  - first:
+      213: 3797331573437433645
+    second: Untitw34werrsdfled-4_102
+  - first:
+      213: -1063871357358996125
+    second: Untitw34werrsdfled-4_103
+  - first:
+      213: 965116395761105374
+    second: Untitw34werrsdfled-4_104
+  - first:
+      213: 7949964749494497023
+    second: Untitw34werrsdfled-4_105
+  - first:
+      213: -5792071000635191990
+    second: Untitw34werrsdfled-4_106
+  - first:
+      213: 6214801164718559393
+    second: Untitw34werrsdfled-4_107
+  - first:
+      213: -2125927524802209547
+    second: Untitw34werrsdfled-4_108
+  - first:
+      213: -1800046171418425476
+    second: Untitw34werrsdfled-4_109
+  - first:
+      213: 7850309743035853885
+    second: Untitw34werrsdfled-4_110
+  - first:
+      213: -20333591803548694
+    second: Untitw34werrsdfled-4_111
+  - first:
+      213: 5201388632132319684
+    second: Untitw34werrsdfled-4_112
+  - first:
+      213: -3060814530781595310
+    second: Untitw34werrsdfled-4_113
+  - first:
+      213: 602383049863284300
+    second: Untitw34werrsdfled-4_114
+  - first:
+      213: -8151716054230564041
+    second: Untitw34werrsdfled-4_115
+  - first:
+      213: 8903666636439945407
+    second: Untitw34werrsdfled-4_116
+  - first:
+      213: -2295088706904086773
+    second: Untitw34werrsdfled-4_117
+  - first:
+      213: -3804163979260194746
+    second: Untitw34werrsdfled-4_118
+  - first:
+      213: 9110792287939330370
+    second: Untitw34werrsdfled-4_119
+  - first:
+      213: -8661355724710472659
+    second: Untitw34werrsdfled-4_120
+  - first:
+      213: -5604555925995022352
+    second: Untitw34werrsdfled-4_121
+  - first:
+      213: -491926884681057301
+    second: Untitw34werrsdfled-4_122
+  - first:
+      213: 9036403711924143899
+    second: Untitw34werrsdfled-4_123
+  - first:
+      213: -7093589105413589563
+    second: Untitw34werrsdfled-4_124
+  - first:
+      213: 2878685152710427377
+    second: Untitw34werrsdfled-4_125
+  - first:
+      213: -5274598957833401271
+    second: Untitw34werrsdfled-4_126
+  - first:
+      213: -6351571413273135687
+    second: Untitw34werrsdfled-4_127
+  - first:
+      213: -8719429059802313159
+    second: Untitw34werrsdfled-4_128
+  - first:
+      213: 2154280096096510074
+    second: Untitw34werrsdfled-4_129
+  - first:
+      213: 7954836710780419233
+    second: Untitw34werrsdfled-4_130
+  - first:
+      213: -2034578820755089527
+    second: Untitw34werrsdfled-4_131
+  - first:
+      213: -2106763390019812441
+    second: Untitw34werrsdfled-4_132
+  - first:
+      213: -8759783858589649731
+    second: Untitw34werrsdfled-4_133
+  - first:
+      213: -1588174881491901732
+    second: Untitw34werrsdfled-4_134
+  - first:
+      213: -6188415601237605652
+    second: Untitw34werrsdfled-4_135
+  - first:
+      213: -5664346661097658308
+    second: Untitw34werrsdfled-4_136
+  - first:
+      213: 3981394856356024743
+    second: Untitw34werrsdfled-4_137
+  - first:
+      213: -3064168584650103757
+    second: Untitw34werrsdfled-4_138
+  - first:
+      213: -4065125582191923469
+    second: Untitw34werrsdfled-4_139
+  - first:
+      213: 756346889517767124
+    second: Untitw34werrsdfled-4_140
+  - first:
+      213: -1394298212795870055
+    second: Untitw34werrsdfled-4_141
+  - first:
+      213: 1295347480866877724
+    second: Untitw34werrsdfled-4_142
+  - first:
+      213: -1944539394289760386
+    second: Untitw34werrsdfled-4_143
+  - first:
+      213: -8988638763477696126
+    second: Untitw34werrsdfled-4_144
+  - first:
+      213: -792040918794499034
+    second: Untitw34werrsdfled-4_145
+  - first:
+      213: -2281372780094631850
+    second: Untitw34werrsdfled-4_146
+  - first:
+      213: -9089878618530002222
+    second: Untitw34werrsdfled-4_147
+  - first:
+      213: 1585465336652800759
+    second: Untitw34werrsdfled-4_148
+  - first:
+      213: 1483724394174842343
+    second: Untitw34werrsdfled-4_149
+  - first:
+      213: 6974524944868594104
+    second: Untitw34werrsdfled-4_150
+  - first:
+      213: -8527460405845880775
+    second: Untitw34werrsdfled-4_151
+  - first:
+      213: -2254557238933835436
+    second: Untitw34werrsdfled-4_152
+  - first:
+      213: -4250770074208907891
+    second: Untitw34werrsdfled-4_153
+  - first:
+      213: 8771476565447048394
+    second: Untitw34werrsdfled-4_154
+  - first:
+      213: 7383835533438979922
+    second: Untitw34werrsdfled-4_155
+  - first:
+      213: 8238089072133302008
+    second: Untitw34werrsdfled-4_156
+  - first:
+      213: -505059494891494405
+    second: Untitw34werrsdfled-4_157
+  - first:
+      213: -4236052621163461280
+    second: Untitw34werrsdfled-4_158
+  - first:
+      213: 6995029445558808143
+    second: Untitw34werrsdfled-4_159
+  - first:
+      213: 1307149470923741305
+    second: Untitw34werrsdfled-4_160
+  - first:
+      213: -7629917519048915889
+    second: Untitw34werrsdfled-4_161
+  - first:
+      213: -3685719182547535747
+    second: Untitw34werrsdfled-4_162
+  - first:
+      213: 6846820137144493563
+    second: Untitw34werrsdfled-4_163
+  - first:
+      213: 5201596502842046439
+    second: Untitw34werrsdfled-4_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270ecd0fda6e9fe0800000000000000
+      internalID: -1180388546082633941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 960
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2121195776427ec40800000000000000
+      internalID: 5541437893275357714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 912
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a885ab33814c60800000000000000
+      internalID: 7800660321785915404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 968
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170aab7ee8e461b10800000000000000
+      internalID: 1951833864191778929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 968
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186c795c02f35c400800000000000000
+      internalID: 343750356550272641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_5
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 960
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0eb3178458767f0800000000000000
+      internalID: -619379877556264747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 960
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90b7b5a7179c3f70800000000000000
+      internalID: 9168369069239808158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_7
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 944
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e478fe26bd9eb0800000000000000
+      internalID: -4711409322306509262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 938
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839bf25460ae97640800000000000000
+      internalID: 5078347367488403768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 950
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c1674a290b5530800000000000000
+      internalID: 3844676784081715799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_10
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 944
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd4c38d22c5d5a0800000000000000
+      internalID: -6497073386672039142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 928
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4fba7a6b71a3c0800000000000000
+      internalID: -4350060067807081587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_12
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 944
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219384c6069467d10800000000000000
+      internalID: 2122964952834128146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_13
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 928
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc8da58b4a1a980800000000000000
+      internalID: -8529355107557913775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c52bbaebbb21850800000000000000
+      internalID: 6346341252517223451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 896
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643dcc4b447ef3ba0800000000000000
+      internalID: -6106908287413988538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 928
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361c1ae335bcab220800000000000000
+      internalID: 2502536101351244131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 918
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0088c32ed19a50800000000000000
+      internalID: 6526241580305615602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 936
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c5bd0b32a5c8d30800000000000000
+      internalID: 4435018842390617221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 911
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b901f5f24c621f0800000000000000
+      internalID: -1069952153716483321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 864
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3503e5942f08d0800000000000000
+      internalID: -2878041410688959582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 912
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa37c78943a0499e0800000000000000
+      internalID: -1615655145306295382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_22
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 880
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a06e923f9aa06540800000000000000
+      internalID: 4999183187107012769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_23
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 912
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7126f2295bb0ef50800000000000000
+      internalID: 6908727819899380095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_24
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 874
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67d3bbf12f6ecf40800000000000000
+      internalID: 5750655965946173293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_25
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 896
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71788764b2b7a540800000000000000
+      internalID: 5019176797628559743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_26
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 880
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52b8709df90f1a40800000000000000
+      internalID: 5340998667739902555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 872
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abff02b43596f320800000000000000
+      internalID: 2591422689156529056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 890
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25bcadf5b9e7aa60800000000000000
+      internalID: 7685368256985347371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 872
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7648e6e3890e83a0800000000000000
+      internalID: -6661376336715037061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 888
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb2f15295906480800000000000000
+      internalID: -8907955607266214133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_31
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 848
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b688e4350f36f8890800000000000000
+      internalID: -7453628974433925013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_32
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 854
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2500396ac289e7250800000000000000
+      internalID: 5944355875716268114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_33
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 864
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623ec6555fda0d390800000000000000
+      internalID: -7795539685766536410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 872
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad69f546a8f3cc0800000000000000
+      internalID: -3729109802734396794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 864
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4d8880a62a688b0800000000000000
+      internalID: -5150250547558165281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_36
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 874
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590b034ee56d9ba0800000000000000
+      internalID: -6080591847878882984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_37
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 864
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a880811c1b8f70800000000000000
+      internalID: 9190470326076088796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc40a9fda4c17940800000000000000
+      internalID: 5292227288633461967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 848
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8261949748399fec0800000000000000
+      internalID: -3532630235515644376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 848
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ebb9585ca3bd00800000000000000
+      internalID: 987322238786854998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_41
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 860
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e43f3b4a98ebc10800000000000000
+      internalID: 2071244219123715654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_42
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 856
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58783129ceffc690800000000000000
+      internalID: -7579559508042024869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 848
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b434646c240c626d0800000000000000
+      internalID: -3015511507451100341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 832
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264f763d380b92b0800000000000000
+      internalID: -5576854654567889375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_45
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 848
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dcdfa94dd9be0b0800000000000000
+      internalID: -5698287367048278778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_46
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 848
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8dcf86be1bbdea0800000000000000
+      internalID: -5846884066573625160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 848
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d494e377677fb50800000000000000
+      internalID: 6626895631217151265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0a43d5b4a6d600800000000000000
+      internalID: 492762310084529628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 832
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9a88c244bd88730800000000000000
+      internalID: 4001689354770098619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_50
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 832
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f11b22ea20ff9c0800000000000000
+      internalID: -3891388606095220982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 848
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75501b40f2f47ac0800000000000000
+      internalID: -3858191866884237954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_52
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 784
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34effd7a484e44920800000000000000
+      internalID: 2973752912374660675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_53
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 826
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adbede0cd5756080800000000000000
+      internalID: -9194813476204266080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 826
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e274e48ab67b83bb0800000000000000
+      internalID: -4956009716908144850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 832
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b28142b6767490800000000000000
+      internalID: -7748875600869018514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_56
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 810
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393977eb08ec6ee10800000000000000
+      internalID: 2226694118127932307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_57
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 816
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8263e294880aae0800000000000000
+      internalID: -1540081224671418124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_58
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 806
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041edb2bb4d075920800000000000000
+      internalID: 2978864297301369152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 800
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde22711011b8960800000000000000
+      internalID: 7605191092126019058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_60
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 810
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad11ae03e88ee70800000000000000
+      internalID: 9144715384112405214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 812
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f3199d3e76ccd0800000000000000
+      internalID: -2538202536950369032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_62
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 806
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6666790336a26e60800000000000000
+      internalID: 7954102630022014572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_63
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 810
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da72045f64805f9c0800000000000000
+      internalID: -3894197201936570451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_64
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 810
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24fe3104d71ec040800000000000000
+      internalID: 4669696062951191598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_65
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 794
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f44d80288fe8d0800000000000000
+      internalID: -2814881568692833187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 334
+        width: 814
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17e08a6b82d4f80800000000000000
+      internalID: -8120789788110458403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 769
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e727828e2144ade20800000000000000
+      internalID: 3376085718662673022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 796
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225fd0103e15522d0800000000000000
+      internalID: -3304144716189272798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_69
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 732
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff7137b30cf90a0800000000000000
+      internalID: -6872563144777531561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_70
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 696
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07aaa152ad38a700800000000000000
+      internalID: 551758721717020429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26310e299cd647740800000000000000
+      internalID: 5148860986511332194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_72
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 668
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe4e7b19f2331940800000000000000
+      internalID: 5265608434815749818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7532560df23f9d120800000000000000
+      internalID: 2439248059883135831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 640
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd070958fbd9850800000000000000
+      internalID: 6385470427056102434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c391a8b3b33704e0800000000000000
+      internalID: -2015585461235248183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 448
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f33087239f19d50800000000000000
+      internalID: 6742444112307502961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_77
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 432
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05409dd4c950cd8c0800000000000000
+      internalID: -3973294602368514992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_78
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 432
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f5193d5e7a8ee20800000000000000
+      internalID: 3380136125880426295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 416
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a20d9754d706450800000000000000
+      internalID: 6079997234300070521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_80
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 416
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9745bdfa500a20800000000000000
+      internalID: 3026518995307568004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_81
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 400
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e5597f0165680e0800000000000000
+      internalID: -2268030731461239226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_82
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 400
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac045506578d280800000000000000
+      internalID: -9018329197201798499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_83
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 384
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3f3feb9298a6980800000000000000
+      internalID: -8544866530591771726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_84
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 390
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d7a40bf92e30b0800000000000000
+      internalID: -5747109916386536542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4668977c08d2730800000000000000
+      internalID: 3975975640263713971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_86
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 368
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b79a5cdfbc20a20800000000000000
+      internalID: 3027206190349777743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_87
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 352
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599b647f18271c790800000000000000
+      internalID: -7511596800952321643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_88
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 360
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917decd2c5a9645d0800000000000000
+      internalID: -3078603574564956391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cc63292f1e72010800000000000000
+      internalID: 1164147460649962560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_90
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 346
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80c452cfc1d49ec0800000000000000
+      internalID: -3560990715094450035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc88f5ff104c7290800000000000000
+      internalID: -7891361941045080834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_92
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 352
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8143527178b9dd560800000000000000
+      internalID: 7340193972194980888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_93
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 348
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79265b76bff3ee50800000000000000
+      internalID: 6837589818496919931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_94
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 330
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4359a80659e2930800000000000000
+      internalID: 4120394950965015802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_95
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 330
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed9a8cc1ceb36ef0800000000000000
+      internalID: -116039425811898908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_96
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 324
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc6656fc52158580800000000000000
+      internalID: -8825627704283468620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_97
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 332
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4e4f324abb5fb0800000000000000
+      internalID: -4657924595891942211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_98
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 336
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07527b790babcb860800000000000000
+      internalID: 7547112343188481392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_99
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 240
+        width: 7
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf8bbe88f56c0b80800000000000000
+      internalID: -8427248684496089152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_100
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 288
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc21579e7cd0ad20800000000000000
+      internalID: 3287870164243131644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_101
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 320
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce58524891a913d0800000000000000
+      internalID: -3235377181968802111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_102
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 314
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d270d1962f4d2b430800000000000000
+      internalID: 3797331573437433645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_103
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 314
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36587e913ae5c31f0800000000000000
+      internalID: -1063871357358996125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fe30af38c46d00800000000000000
+      internalID: 965116395761105374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_105
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 300
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2f76a1d2f35e60800000000000000
+      internalID: 7949964749494497023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_106
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 304
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d4c45dc1e6e9fa0800000000000000
+      internalID: -5792071000635191990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_107
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 288
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0dbbc5bb86f3650800000000000000
+      internalID: 6214801164718559393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_108
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f850f90e203f72e0800000000000000
+      internalID: -2125927524802209547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_109
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 292
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778d4d4b83f407e0800000000000000
+      internalID: -1800046171418425476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_110
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 252
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca07a5e17e1fc60800000000000000
+      internalID: 7850309743035853885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_111
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 284
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebaa8bb4b2c7bff0800000000000000
+      internalID: -20333591803548694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 284
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9700d176b0f2840800000000000000
+      internalID: 5201388632132319684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_113
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 252
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b861b66dc585d0800000000000000
+      internalID: -3060814530781595310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_114
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 272
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4641d931381c5800800000000000000
+      internalID: 602383049863284300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 266
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7330db530794fde80800000000000000
+      internalID: -8151716054230564041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_116
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 264
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00087d1ad209b70800000000000000
+      internalID: 8903666636439945407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 268
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07a8f02bf43620e0800000000000000
+      internalID: -2295088706904086773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_118
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6401cd42405e43bc0800000000000000
+      internalID: -3804163979260194746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_119
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 264
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410ef89059007e70800000000000000
+      internalID: 9110792287939330370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_120
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 272
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241653bbdeacc780800000000000000
+      internalID: -8661355724710472659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_121
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 250
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7914b541e9832b0800000000000000
+      internalID: -5604555925995022352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_122
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebfe1fca135c29f0800000000000000
+      internalID: -491926884681057301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_123
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 240
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1782409c41c76d70800000000000000
+      internalID: 9036403711924143899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_124
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 236
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5fd35ca428e8d90800000000000000
+      internalID: -7093589105413589563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_125
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 240
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20f7bf4e423f720800000000000000
+      internalID: 2878685152710427377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 236
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cc1b1a13cdcc6b0800000000000000
+      internalID: -5274598957833401271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_127
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b53452a37faad7a0800000000000000
+      internalID: -6351571413273135687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 208
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec346b77d5ef680800000000000000
+      internalID: -8719429059802313159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_129
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70e682655a85ed10800000000000000
+      internalID: 2154280096096510074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_130
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acbd4887d1456e60800000000000000
+      internalID: 7954836710780419233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_131
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 224
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9871c599759b3c3e0800000000000000
+      internalID: -2034578820755089527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_132
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 208
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a34210ebd543c2e0800000000000000
+      internalID: -2106763390019812441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_133
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 220
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4309fedfefe6680800000000000000
+      internalID: -8759783858589649731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_134
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 208
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22a7b1c5ba5f9e0800000000000000
+      internalID: -1588174881491901732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 202
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24fbd5cc45e1aa0800000000000000
+      internalID: -6188415601237605652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_136
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38aa9409b23461b0800000000000000
+      internalID: -5664346661097658308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_137
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 204
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11bab0781c04730800000000000000
+      internalID: 3981394856356024743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e40c28e2e975d0800000000000000
+      internalID: -3064168584650103757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_139
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 81
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee81a22d5c597c0800000000000000
+      internalID: -4065125582191923469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d99dac1d751f7a00800000000000000
+      internalID: 756346889517767124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_141
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994175ba92576ace0800000000000000
+      internalID: -1394298212795870055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_142
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 64
+        width: 17
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1174c9bbaff9f110800000000000000
+      internalID: 1295347480866877724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770b9739bb9305e0800000000000000
+      internalID: -1944539394289760386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_144
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810b902ba0f14380800000000000000
+      internalID: -8988638763477696126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_145
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 138
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0ea31bfa1205f0800000000000000
+      internalID: -792040918794499034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_146
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 128
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d6323b8fe650e0800000000000000
+      internalID: -2281372780094631850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_147
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 88
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac9138e834ad180800000000000000
+      internalID: -9089878618530002222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_148
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 113
+        width: 23
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2a2e2d254b00610800000000000000
+      internalID: 1585465336652800759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_149
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 129
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58f53b97f379410800000000000000
+      internalID: 1483724394174842343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_150
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15ef71c7d7ac060800000000000000
+      internalID: 6974524944868594104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 88
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9301959f0ff58a980800000000000000
+      internalID: -8527460405845880775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_152
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 92
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513097e22436b0e0800000000000000
+      internalID: -2254557238933835436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_153
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 64
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dcae8932b3205c0800000000000000
+      internalID: -4250770074208907891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_154
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 64
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc7227867b8ab970800000000000000
+      internalID: 8771476565447048394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_155
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f8982eb47a87660800000000000000
+      internalID: 7383835533438979922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_156
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 64
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f668842d52935270800000000000000
+      internalID: 8238089072133302008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3ed88b01badf8f0800000000000000
+      internalID: -505059494891494405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_158
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06580b9a5948635c0800000000000000
+      internalID: -4236052621163461280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_159
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 276
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2eef2836531160800000000000000
+      internalID: 6995029445558808143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 178
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978dfbaa48de32210800000000000000
+      internalID: 1307149470923741305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_161
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 130
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444f8301761d1690800000000000000
+      internalID: -7629917519048915889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_162
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 146
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7839666ee1b9dcc0800000000000000
+      internalID: -3685719182547535747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_163
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf52d7383aac40f50800000000000000
+      internalID: 6846820137144493563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Untitw34werrsdfled-4_164
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e770d8c578cf2840800000000000000
+      internalID: 5201596502842046439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Untitw34werrsdfled-4_0: -1180388546082633941
+      Untitw34werrsdfled-4_1: 5541437893275357714
+      Untitw34werrsdfled-4_10: -6497073386672039142
+      Untitw34werrsdfled-4_100: 3287870164243131644
+      Untitw34werrsdfled-4_101: -3235377181968802111
+      Untitw34werrsdfled-4_102: 3797331573437433645
+      Untitw34werrsdfled-4_103: -1063871357358996125
+      Untitw34werrsdfled-4_104: 965116395761105374
+      Untitw34werrsdfled-4_105: 7949964749494497023
+      Untitw34werrsdfled-4_106: -5792071000635191990
+      Untitw34werrsdfled-4_107: 6214801164718559393
+      Untitw34werrsdfled-4_108: -2125927524802209547
+      Untitw34werrsdfled-4_109: -1800046171418425476
+      Untitw34werrsdfled-4_11: -4350060067807081587
+      Untitw34werrsdfled-4_110: 7850309743035853885
+      Untitw34werrsdfled-4_111: -20333591803548694
+      Untitw34werrsdfled-4_112: 5201388632132319684
+      Untitw34werrsdfled-4_113: -3060814530781595310
+      Untitw34werrsdfled-4_114: 602383049863284300
+      Untitw34werrsdfled-4_115: -8151716054230564041
+      Untitw34werrsdfled-4_116: 8903666636439945407
+      Untitw34werrsdfled-4_117: -2295088706904086773
+      Untitw34werrsdfled-4_118: -3804163979260194746
+      Untitw34werrsdfled-4_119: 9110792287939330370
+      Untitw34werrsdfled-4_12: 2122964952834128146
+      Untitw34werrsdfled-4_120: -8661355724710472659
+      Untitw34werrsdfled-4_121: -5604555925995022352
+      Untitw34werrsdfled-4_122: -491926884681057301
+      Untitw34werrsdfled-4_123: 9036403711924143899
+      Untitw34werrsdfled-4_124: -7093589105413589563
+      Untitw34werrsdfled-4_125: 2878685152710427377
+      Untitw34werrsdfled-4_126: -5274598957833401271
+      Untitw34werrsdfled-4_127: -6351571413273135687
+      Untitw34werrsdfled-4_128: -8719429059802313159
+      Untitw34werrsdfled-4_129: 2154280096096510074
+      Untitw34werrsdfled-4_13: -8529355107557913775
+      Untitw34werrsdfled-4_130: 7954836710780419233
+      Untitw34werrsdfled-4_131: -2034578820755089527
+      Untitw34werrsdfled-4_132: -2106763390019812441
+      Untitw34werrsdfled-4_133: -8759783858589649731
+      Untitw34werrsdfled-4_134: -1588174881491901732
+      Untitw34werrsdfled-4_135: -6188415601237605652
+      Untitw34werrsdfled-4_136: -5664346661097658308
+      Untitw34werrsdfled-4_137: 3981394856356024743
+      Untitw34werrsdfled-4_138: -3064168584650103757
+      Untitw34werrsdfled-4_139: -4065125582191923469
+      Untitw34werrsdfled-4_14: 6346341252517223451
+      Untitw34werrsdfled-4_140: 756346889517767124
+      Untitw34werrsdfled-4_141: -1394298212795870055
+      Untitw34werrsdfled-4_142: 1295347480866877724
+      Untitw34werrsdfled-4_143: -1944539394289760386
+      Untitw34werrsdfled-4_144: -8988638763477696126
+      Untitw34werrsdfled-4_145: -792040918794499034
+      Untitw34werrsdfled-4_146: -2281372780094631850
+      Untitw34werrsdfled-4_147: -9089878618530002222
+      Untitw34werrsdfled-4_148: 1585465336652800759
+      Untitw34werrsdfled-4_149: 1483724394174842343
+      Untitw34werrsdfled-4_15: -6106908287413988538
+      Untitw34werrsdfled-4_150: 6974524944868594104
+      Untitw34werrsdfled-4_151: -8527460405845880775
+      Untitw34werrsdfled-4_152: -2254557238933835436
+      Untitw34werrsdfled-4_153: -4250770074208907891
+      Untitw34werrsdfled-4_154: 8771476565447048394
+      Untitw34werrsdfled-4_155: 7383835533438979922
+      Untitw34werrsdfled-4_156: 8238089072133302008
+      Untitw34werrsdfled-4_157: -505059494891494405
+      Untitw34werrsdfled-4_158: -4236052621163461280
+      Untitw34werrsdfled-4_159: 6995029445558808143
+      Untitw34werrsdfled-4_16: 2502536101351244131
+      Untitw34werrsdfled-4_160: 1307149470923741305
+      Untitw34werrsdfled-4_161: -7629917519048915889
+      Untitw34werrsdfled-4_162: -3685719182547535747
+      Untitw34werrsdfled-4_163: 6846820137144493563
+      Untitw34werrsdfled-4_164: 5201596502842046439
+      Untitw34werrsdfled-4_17: 6526241580305615602
+      Untitw34werrsdfled-4_18: 4435018842390617221
+      Untitw34werrsdfled-4_19: -1069952153716483321
+      Untitw34werrsdfled-4_2: 7800660321785915404
+      Untitw34werrsdfled-4_20: -2878041410688959582
+      Untitw34werrsdfled-4_21: -1615655145306295382
+      Untitw34werrsdfled-4_22: 4999183187107012769
+      Untitw34werrsdfled-4_23: 6908727819899380095
+      Untitw34werrsdfled-4_24: 5750655965946173293
+      Untitw34werrsdfled-4_25: 5019176797628559743
+      Untitw34werrsdfled-4_26: 5340998667739902555
+      Untitw34werrsdfled-4_27: 2591422689156529056
+      Untitw34werrsdfled-4_28: 7685368256985347371
+      Untitw34werrsdfled-4_29: -6661376336715037061
+      Untitw34werrsdfled-4_3: 1951833864191778929
+      Untitw34werrsdfled-4_30: -8907955607266214133
+      Untitw34werrsdfled-4_31: -7453628974433925013
+      Untitw34werrsdfled-4_32: 5944355875716268114
+      Untitw34werrsdfled-4_33: -7795539685766536410
+      Untitw34werrsdfled-4_34: -3729109802734396794
+      Untitw34werrsdfled-4_35: -5150250547558165281
+      Untitw34werrsdfled-4_36: -6080591847878882984
+      Untitw34werrsdfled-4_37: 9190470326076088796
+      Untitw34werrsdfled-4_38: 5292227288633461967
+      Untitw34werrsdfled-4_39: -3532630235515644376
+      Untitw34werrsdfled-4_4: 343750356550272641
+      Untitw34werrsdfled-4_40: 987322238786854998
+      Untitw34werrsdfled-4_41: 2071244219123715654
+      Untitw34werrsdfled-4_42: -7579559508042024869
+      Untitw34werrsdfled-4_43: -3015511507451100341
+      Untitw34werrsdfled-4_44: -5576854654567889375
+      Untitw34werrsdfled-4_45: -5698287367048278778
+      Untitw34werrsdfled-4_46: -5846884066573625160
+      Untitw34werrsdfled-4_47: 6626895631217151265
+      Untitw34werrsdfled-4_48: 492762310084529628
+      Untitw34werrsdfled-4_49: 4001689354770098619
+      Untitw34werrsdfled-4_5: -619379877556264747
+      Untitw34werrsdfled-4_50: -3891388606095220982
+      Untitw34werrsdfled-4_51: -3858191866884237954
+      Untitw34werrsdfled-4_52: 2973752912374660675
+      Untitw34werrsdfled-4_53: -9194813476204266080
+      Untitw34werrsdfled-4_54: -4956009716908144850
+      Untitw34werrsdfled-4_55: -7748875600869018514
+      Untitw34werrsdfled-4_56: 2226694118127932307
+      Untitw34werrsdfled-4_57: -1540081224671418124
+      Untitw34werrsdfled-4_58: 2978864297301369152
+      Untitw34werrsdfled-4_59: 7605191092126019058
+      Untitw34werrsdfled-4_6: 9168369069239808158
+      Untitw34werrsdfled-4_60: 9144715384112405214
+      Untitw34werrsdfled-4_61: -2538202536950369032
+      Untitw34werrsdfled-4_62: 7954102630022014572
+      Untitw34werrsdfled-4_63: -3894197201936570451
+      Untitw34werrsdfled-4_64: 4669696062951191598
+      Untitw34werrsdfled-4_65: -2814881568692833187
+      Untitw34werrsdfled-4_66: -8120789788110458403
+      Untitw34werrsdfled-4_67: 3376085718662673022
+      Untitw34werrsdfled-4_68: -3304144716189272798
+      Untitw34werrsdfled-4_69: -6872563144777531561
+      Untitw34werrsdfled-4_7: -4711409322306509262
+      Untitw34werrsdfled-4_70: 551758721717020429
+      Untitw34werrsdfled-4_71: 5148860986511332194
+      Untitw34werrsdfled-4_72: 5265608434815749818
+      Untitw34werrsdfled-4_73: 2439248059883135831
+      Untitw34werrsdfled-4_74: 6385470427056102434
+      Untitw34werrsdfled-4_75: -2015585461235248183
+      Untitw34werrsdfled-4_76: 6742444112307502961
+      Untitw34werrsdfled-4_77: -3973294602368514992
+      Untitw34werrsdfled-4_78: 3380136125880426295
+      Untitw34werrsdfled-4_79: 6079997234300070521
+      Untitw34werrsdfled-4_8: 5078347367488403768
+      Untitw34werrsdfled-4_80: 3026518995307568004
+      Untitw34werrsdfled-4_81: -2268030731461239226
+      Untitw34werrsdfled-4_82: -9018329197201798499
+      Untitw34werrsdfled-4_83: -8544866530591771726
+      Untitw34werrsdfled-4_84: -5747109916386536542
+      Untitw34werrsdfled-4_85: 3975975640263713971
+      Untitw34werrsdfled-4_86: 3027206190349777743
+      Untitw34werrsdfled-4_87: -7511596800952321643
+      Untitw34werrsdfled-4_88: -3078603574564956391
+      Untitw34werrsdfled-4_89: 1164147460649962560
+      Untitw34werrsdfled-4_9: 3844676784081715799
+      Untitw34werrsdfled-4_90: -3560990715094450035
+      Untitw34werrsdfled-4_91: -7891361941045080834
+      Untitw34werrsdfled-4_92: 7340193972194980888
+      Untitw34werrsdfled-4_93: 6837589818496919931
+      Untitw34werrsdfled-4_94: 4120394950965015802
+      Untitw34werrsdfled-4_95: -116039425811898908
+      Untitw34werrsdfled-4_96: -8825627704283468620
+      Untitw34werrsdfled-4_97: -4657924595891942211
+      Untitw34werrsdfled-4_98: 7547112343188481392
+      Untitw34werrsdfled-4_99: -8427248684496089152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
