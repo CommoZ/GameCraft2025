@@ -164,6 +164,8 @@ public class PlayerMovement : MonoBehaviour
 		{
 			rb.sharedMaterial = normalMat;
 		}
+		else 
+			rb.sharedMaterial = bounceMat;
 	}
 
 	private void ReleaseJump()
