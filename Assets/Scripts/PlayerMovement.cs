@@ -152,7 +152,7 @@ public class PlayerMovement : MonoBehaviour
 
 		if (isCharging && grounded)
 		{
-			jumpCharge += chargeRate;
+			jumpCharge += chargeRate * Time.deltaTime;
 			jumpCharge = Mathf.Clamp(jumpCharge, 0f, maxJumpForce);
 
 			if (jumpBar != null)
