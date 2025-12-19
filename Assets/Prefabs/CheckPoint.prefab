@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7785091630283454285}
   - component: {fileID: 8757824014270081367}
   - component: {fileID: 170912165080432556}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CheckpointTilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -429,7 +429,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7169464728980820646}
   - component: {fileID: 965952335828478696}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CheckPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
