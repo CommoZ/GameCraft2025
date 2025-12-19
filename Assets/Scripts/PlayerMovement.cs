@@ -32,6 +32,9 @@ public class PlayerMovement : MonoBehaviour
 	[Header("Visuals")]
 	[SerializeField] private ParticleSystem walkParticles;
 
+	[Header("music & sfx")]
+	[SerializeField] private AudioManager audioManager;
+
 	// =================================================================================
 	// PRIVATE STATE
 	// =================================================================================
@@ -82,6 +85,7 @@ public class PlayerMovement : MonoBehaviour
 	public void OnMove(InputValue value)
 	{
 		moveDirection = value.Get<Vector2>().x;
+		//audioManager.PlaySFX(SFXType.Walk);
 	}
 
 	public void OnJump(InputValue value)
@@ -94,6 +98,7 @@ public class PlayerMovement : MonoBehaviour
 		}
 		else if (!pressed && isCharging)
 		{
+			//audioManager.PlaySFX(SFXType.Jump);
 			ReleaseJump();
 		}
 	}
@@ -211,6 +216,7 @@ public class PlayerMovement : MonoBehaviour
 		if (grounded && !wasGrounded)
 		{
 			rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y);
+			//audioManager.PlaySFX(SFXType.Land);
 		}
 	}
 
