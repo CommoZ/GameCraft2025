@@ -29,6 +29,9 @@ public class PlayerMovement : MonoBehaviour
 	[Header("UI")]
 	[SerializeField] private Slider jumpBar;
 
+	[Header("Visuals")]
+	[SerializeField] private ParticleSystem walkParticles;
+
 	// =================================================================================
 	// PRIVATE STATE
 	// =================================================================================
@@ -120,13 +123,33 @@ public class PlayerMovement : MonoBehaviour
 
 	private void Flip()
 	{
-		if ((isFacingRight && moveDirection < 0f) || (!isFacingRight && moveDirection > 0f))
+		if ((isFacingRight && moveDirection > 0f) || (!isFacingRight && moveDirection < 0f))
 		{
 			isFacingRight = !isFacingRight;
+			if (walkParticles != null)
+			{
+				Vector3 rotation = walkParticles.transform.rotation.eulerAngles;
+				rotation.y += 180f;
+				walkParticles.transform.rotation = Quaternion.Euler(rotation);
+			}
 			Vector3 scale = transform.localScale;
 			scale.x *= -1f;
 			transform.localScale = scale;
+
+			if (isFacingRight && walkParticles != null)
+			{
+				Vector3 rotation = walkParticles.transform.rotation.eulerAngles;
+				rotation.y = 180f;
+				walkParticles.transform.rotation = Quaternion.Euler(rotation);
+			}
+			else if (walkParticles != null)
+			{
+				Vector3 rotation = walkParticles.transform.rotation.eulerAngles;
+				rotation.y = 0f;
+				walkParticles.transform.rotation = Quaternion.Euler(rotation);
+			}
 		}
+
 	}
 
 	// =================================================================================
@@ -216,8 +239,8 @@ public class PlayerMovement : MonoBehaviour
 		if (animator == null) return;
 
 		animator.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
-		animator.SetFloat("vSpeed", rb.linearVelocity.y);
-		animator.SetBool("grounded", grounded);
+		//animator.SetFloat("vSpeed", rb.linearVelocity.y);
+		//animator.SetBool("grounded", grounded);
 		animator.SetBool("preJump", preJump);
 	}
 }
